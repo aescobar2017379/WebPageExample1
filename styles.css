@@ -1,5 +1,6 @@
 body {
     background-color:deepskyblue;
+    margin-left: 60;
 }
 
 .title {
@@ -13,5 +14,10 @@ body {
 
 #texto {
     color: rgb(215, 68, 68);
+}
+
+.image-size {
+    width: 50;
+    height: 50;
 }
 
